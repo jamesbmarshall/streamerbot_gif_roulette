@@ -1,5 +1,5 @@
 # GIF Roulette
-The C# code block for a Twitch channel point reward that takes a search word/phrase and returns a GIF to set as an OBS browser source URL.
+The C# code block for a Twitch channel point reward that takes a search word/phrase and returns a GIF to set as an OBS browser source URL. There are two versions: one which uses the random endpoint, and one which uses search. Personally, I think search is more likely to give you the results you want if you're familiar with using GIPHY. The random endpoint is... random.
 
 ## Installation
 
